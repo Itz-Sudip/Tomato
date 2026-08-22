@@ -31,6 +31,10 @@
     gap: 10px;
 }
 
+.place-order-left .multi-fields input {
+    flex: 1;
+}
+
 .place-order-right{
     width: 100%;
     max-width: max(40%,500px);
